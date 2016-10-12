@@ -256,7 +256,7 @@ public class NdfdXMLBindingStub extends org.apache.axis.client.Stub implements g
         } else {
             super.service = service;
         }
-        ((org.apache.axis.client.Service)super.service).setTypeMappingVersion("1.2");
+        ((org.apache.axis.client.Service)super.service).setTypeMappingVersion("1.1");
             java.lang.Class cls;
             javax.xml.namespace.QName qName;
             javax.xml.namespace.QName qName2;
